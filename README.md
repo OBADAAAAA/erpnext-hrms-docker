@@ -10,9 +10,7 @@ Custom Docker setup for ERPNext v16 with Frappe HRMS v16.
 ## Docker Image
 ## Quick Start
 ## Access
-- URL: http://localhost:8080
-- Username: Administrator
-- Password: admin
+- Default credentials should be changed after first login
 
 ## Built by
 Abdelrahman | DevBodd
